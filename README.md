@@ -7,3 +7,5 @@ Contenido del repositorio:
 - **vehicles_us.csv**: dataset de prueba para poder generar los graficos que se van a mostrar en la pagina web.
 - **Directorio notebooks**: solo contiene un el archivo *EDA.ypynb* jupiter que muestra los codigos utilizados para generar los graficos.
 - **Directorio streamlit**: contiene el archivo *config.toml* tiene la configuracion para hacer que Streamlit sea compatible con Render.
+
+Se puede ingresar a la pagina con la siguiente liga https://datascientist.onrender.com/. 
